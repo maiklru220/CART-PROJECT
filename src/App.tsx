@@ -1,26 +1,30 @@
-import React from 'react';
 import './index.css';
 import './App.css';
-import { StyledBtn } from './components/Button.styled';
-import { GlobalStyles } from './styles/GlobalStyles';
 import { styled } from 'styled-components';
-import images from './components/images/0cbd17e4381497547009ce81acc4eee3.jpeg';
+import { GlobalStyles } from './GlobalStyles';
+import { StyledBtn } from './Button.styled';
+import desertImage from './styles/images/desert.jpeg';
 
 
 
-function App() {
+
+
+
+
+
+function App () {
   return (
     <>
       <GlobalStyles />
       
       <Card>
-        <StyledImg src={images} alt="Desert" />
+        <StyledImg src={desertImage} alt="Desert" />
         <StyledTitle>Headline</StyledTitle>
         <StyledText>Faucibus. Faucibus. Sit sit sapien sit tempusrisu ut. Sit molestie ornare in venen.</StyledText>
-        <BattonGroup>
+        <ButtonGroup>
           <StyledBtn btnType="primary">See more</StyledBtn>
           <StyledBtn btnType="secondary">Save</StyledBtn>
-        </BattonGroup>
+        </ButtonGroup>
       </Card>
     </>
   );
@@ -55,7 +59,7 @@ export const StyledText = styled.p`
    margin-left: 15px;
 `
 
-export const BattonGroup = styled.div`
+export const ButtonGroup = styled.div`
   display: flex;
   margin-top: 30px;
   margin-left: 15px;

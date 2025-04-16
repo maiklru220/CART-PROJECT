@@ -1,10 +1,11 @@
+import { type } from 'os';
 import styled, {css} from 'styled-components';
 
 
 
  type StyledBtnPropsType = {
-   btnType: "primary" | "seondary";
-   primary?: boolean;
+   btnType?: "primary" | "secondary",
+   primary?: "boolean"
  }
 
 
