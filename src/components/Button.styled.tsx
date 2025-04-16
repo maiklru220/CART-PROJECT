@@ -3,7 +3,7 @@ import styled, {css} from 'styled-components';
 
 
  type StyledBtnPropsType = {
-   btnType: "primary" | "secondary";
+   btnType: "primary" | "seondary";
    primary?: boolean;
  }
 
