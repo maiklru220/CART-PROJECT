@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/CART-PROJECT%20/static/css/main.31d6cfe0.css",
-    "main.js": "/CART-PROJECT%20/static/js/main.5037a9fa.js",
-    "static/js/787.6658d8b7.chunk.js": "/CART-PROJECT%20/static/js/787.6658d8b7.chunk.js",
-    "static/media/desert.jpeg": "/CART-PROJECT%20/static/media/desert.4c2c0c922311270cffaf.jpeg",
-    "index.html": "/CART-PROJECT%20/index.html",
-    "main.5037a9fa.js.map": "/CART-PROJECT%20/static/js/main.5037a9fa.js.map",
-    "787.6658d8b7.chunk.js.map": "/CART-PROJECT%20/static/js/787.6658d8b7.chunk.js.map"
+    "main.css": "/CART-PROJECT/static/css/main.31d6cfe0.css",
+    "main.js": "/CART-PROJECT/static/js/main.c335fb1d.js",
+    "static/js/787.6658d8b7.chunk.js": "/CART-PROJECT/static/js/787.6658d8b7.chunk.js",
+    "static/media/desert.jpeg": "/CART-PROJECT/static/media/desert.4c2c0c922311270cffaf.jpeg",
+    "index.html": "/CART-PROJECT/index.html",
+    "main.c335fb1d.js.map": "/CART-PROJECT/static/js/main.c335fb1d.js.map",
+    "787.6658d8b7.chunk.js.map": "/CART-PROJECT/static/js/787.6658d8b7.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.31d6cfe0.css",
-    "static/js/main.5037a9fa.js"
+    "static/js/main.c335fb1d.js"
   ]
 }
